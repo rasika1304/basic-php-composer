@@ -13,6 +13,7 @@ variables:
   phpVersion: 7.2
   serviceConnectionToAzure: webapps
   appName: PHPsimple
+  functionAppName: 'PHPfunctions'
 
 steps:
 - script: |
